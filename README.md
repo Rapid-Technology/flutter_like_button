@@ -1,4 +1,4 @@
-# flutter_like_button
+# Flutter Like Button
 
 A new Flutter project.
 
